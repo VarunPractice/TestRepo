@@ -1,0 +1,27 @@
+h1{
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 10px;
+}
+
+input{
+  width: 100px;
+}
+.ToDoItems
+{
+text-align:left;
+}
+.btn-danger 
+{
+  align-self: left;
+}
+.myRow
+{
+  margin: 10px 5px;
+}
+.myButton
+{
+  margin: 5px;
+  min-width: 80px;
+}
